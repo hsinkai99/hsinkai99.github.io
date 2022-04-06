@@ -8,11 +8,11 @@
     <language>zh-tw</language>
     <lastBuildDate>Fri, 01 Apr 2022 15:30:00 +0800</lastBuildDate><atom:link href="https://hsinkai99.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Game</title>
-      <link>https://hsinkai99.github.io/tags/game/</link>
+      <title>Goods</title>
+      <link>https://hsinkai99.github.io/tags/goods/</link>
       <pubDate>Fri, 01 Apr 2022 15:30:00 +0800</pubDate>
       
-      <guid>https://hsinkai99.github.io/tags/game/</guid>
+      <guid>https://hsinkai99.github.io/tags/goods/</guid>
       <description></description>
     </item>
     
@@ -26,9 +26,36 @@
     </item>
     
     <item>
+      <title>Java</title>
+      <link>https://hsinkai99.github.io/tags/java/</link>
+      <pubDate>Fri, 01 Apr 2022 15:30:00 +0800</pubDate>
+      
+      <guid>https://hsinkai99.github.io/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Songs</title>
+      <link>https://hsinkai99.github.io/tags/songs/</link>
+      <pubDate>Fri, 01 Apr 2022 15:30:00 +0800</pubDate>
+      
+      <guid>https://hsinkai99.github.io/tags/songs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Game</title>
+      <link>https://hsinkai99.github.io/tags/game/</link>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
+      
+      <guid>https://hsinkai99.github.io/tags/game/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>New</title>
       <link>https://hsinkai99.github.io/tags/new/</link>
-      <pubDate>Fri, 01 Apr 2022 15:30:00 +0800</pubDate>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
       <guid>https://hsinkai99.github.io/tags/new/</guid>
       <description></description>
@@ -37,7 +64,7 @@
     <item>
       <title>Photos</title>
       <link>https://hsinkai99.github.io/tags/photos/</link>
-      <pubDate>Fri, 01 Apr 2022 15:30:00 +0800</pubDate>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
       <guid>https://hsinkai99.github.io/tags/photos/</guid>
       <description></description>
@@ -46,7 +73,7 @@
     <item>
       <title>Python</title>
       <link>https://hsinkai99.github.io/tags/python/</link>
-      <pubDate>Fri, 01 Apr 2022 15:30:00 +0800</pubDate>
+      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
       <guid>https://hsinkai99.github.io/tags/python/</guid>
       <description></description>
